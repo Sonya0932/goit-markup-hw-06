@@ -759,6 +759,14 @@ button {
     color: #757575;
 }
 
+.modal-form-policy-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: rgba(33, 150, 243, 1);
+}
+
 .modal-form-btn {
     font-weight: 700;
     font-size: 16px;
